@@ -1,4 +1,4 @@
-# Data-Acquisition-Tool - Title:Physiological Data Acquisition Tool for Low Cost Computer Systems 
+#  Physiological Data Acquisition Tool for Low Cost Computer Systems 
 
 Project Setup: 
 To ease the use of this application during the practical classes and the development of the new or modified application by the University Student or young developers, the template project is provided. The students just need to follow few steps in order to successfully use this application. Therefore, a description of how to download and set up the template project is given first. This step by step walk-through is based on using Qt Application version 4.8.6 on a Raspberry Pi Unix based system.
